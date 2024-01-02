@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pass"
+        android:enabled="true"
+        android:icon="@drawable/next_plan_black"
+        android:title="@string/pass"/>
+    <item
+        android:id="@+id/right"
+        android:enabled="true"
+        android:icon="@drawable/check_circle_black"
+        android:title="@string/right"/>
+    <item
+        android:id="@+id/taboo"
+        android:enabled="true"
+        android:icon="@drawable/highlight_off_black"
+        android:title="@string/taboo"/>
+
+</menu>
